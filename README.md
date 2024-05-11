@@ -10,7 +10,7 @@ This script is tailored for all devices with limited HDMI output, allowing users
 
 ## Usage
 
-1. Clone this repository to your local system or download the script.
+1. Download a script version from releases section of this repository;
 
 2. Open your terminal on the downloaded script folder:
 ```
